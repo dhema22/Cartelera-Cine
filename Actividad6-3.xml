@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE carteleraCine SYSTEM "Actividad6-2.dtd">
+<carteleraCine tipo="encabezado">
+	<pelicula tipo="label" titulo="Carteleta de esta semana"></pelicula>
+	<pelicula tipo="lista"
+		titulo="Mientras duermes" 
+		tituloOriginal="Mientras duermes"
+		year="2011" 
+		director="Jaume Balagueró" 
+		actores="Luis Tosar, Marta Etura, Alberto San Juan" 
+		genero="Terror psicológico" 
+		categoria="> 16">
+	</pelicula>
+	<pelicula tipo="lista"
+		titulo="atrapame si puedes"
+		tituloOrig="'catch me if you can'"
+		year="2002"
+		director="Steven Spielberg"
+		actores="Leonardo DiCaprio, Tom Hanks"
+		genero="Comedia, Crimen, Drama"
+		categoria="> 16">
+	</pelicula>
+	
+	<pelicula tipo="lista"
+		titulo="Gangster americano"
+		tituloOrig="American Gangster"
+		year="2007"
+		director="Ridley Scott"
+		actores="Denzel Wachington, Russell Crowe, mas"
+		genero="Crimen, Drama, Hechos reales"
+		categoria=">18">
+	</pelicula>
+	
+	<pelicula tipo="lista"
+		titulo="Pulp fiction"
+		tituloOrig="Pulp fiction"
+		year="1994"
+		director="Quentin Tarantino"
+		actores="John Travolta, Samuel L. Jackson"
+		genero="Comedia negra, Crimen, Drama"
+		categoria="> 16">
+	</pelicula>
+
+	<pelicula tipo="categoria">
+	
+	<pelicula tipo="review"
+		titulo="Deje su reseña si quiere en el espacio siguiente">
+	</pelicula>
+	
+	</pelicula>
+	
+	
+</carteleraCine>
